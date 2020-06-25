@@ -17,7 +17,7 @@ body, html
 
 body
 {
-	background-image: url('bg.jpg');
+	background-image: url('assets/bg.jpg');
 	background-size: cover;
 }
 
@@ -79,7 +79,7 @@ a, a:visited
 }
 
 a:hover
-{color: #FFFF00; background-color: #0000FF;}
+{color: #FFFF00; background-color: #00AA00;}
 
 table
 {
